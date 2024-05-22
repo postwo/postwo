@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+꾸준히 성장중입니다.ㅎㅎ
+
 <!--
 **postwo/postwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
