@@ -9,7 +9,7 @@
 
 # study
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/redis-20232a.svg?style=for-the-badge&logo=redist&logoColor=61DAFB" />
 #
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=postwo)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=postwo&layout=compact) 
