@@ -7,6 +7,9 @@
 # DB
 <img src="https://img.shields.io/badge/mysql-FFFFB3.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />  </div>
 
+# front
+<img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=JavaScript&logoColor=#F7DF1E" />  </div>
+
 # study
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/redis-20232a.svg?style=for-the-badge&logo=redist&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/kafka-20232a.svg?style=for-the-badge&logo=redist&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=redist&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=redist&logoColor=61DAFB" />
