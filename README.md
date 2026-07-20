@@ -12,4 +12,4 @@
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/redis-20232a.svg?style=for-the-badge&logo=redist&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/kafka-20232a.svg?style=for-the-badge&logo=redist&logoColor=61DAFB" />  <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=redist&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=redist&logoColor=61DAFB" />
 #
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=postwo&layout=compact) 
+  
