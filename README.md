@@ -50,6 +50,7 @@
     <th align="center">Database / Cache</th>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
     </td>
   </tr>
@@ -88,8 +89,8 @@
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| [OauthReact](https://github.com/postwo/OauthReact) | OAuth 소셜 로그인 + React 연동 | ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| [JpaBoard](https://github.com/postwo/JpaBoard) | JPA 기반 게시판 | ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) |
+| [AURIX MediRun](https://github.com/postwo/AURIX_MEDIRUN-PROJECT1) | 1차 팀 프로젝트. ROS 2 기반 자율주행 로봇(TurtleBot3) 미션 시스템. Nav2 주행, 아두이노 센서·ArUco 도킹, Qt 대시보드, PostgreSQL 로그 | ![](https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat-square&logo=ros&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [DYNC CareGuard](https://github.com/postwo/DYNC_CareGuard-PROJECT2) | 2차 팀 프로젝트. 노인돌봄 순찰·복약 관리 로봇. FastAPI 중앙 서버(WebSocket), Qt 관제 대시보드, 이상 상황 알림 | ![](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 <br/>
 
