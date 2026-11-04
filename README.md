@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=postwo&fontSize=70&fontAlignY=38&desc=Backend%20Developer%20%7C%20Spring%20%26%20Java%20%7C%20Always%20Learning&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=postwo&fontSize=70&fontAlignY=40&desc=Backend%20Developer%20-%20Always%20Learning&descAlignY=62&descSize=20" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+postwo+%F0%9F%91%8B;Spring+Boot+%26+JPA+%EB%A5%BC+%ED%8C%8C%EA%B3%A0%EB%93%9C%EB%8A%94+%EC%A4%91;Redis+%7C+Kafka+%7C+Kotlin+%EA%B9%8C%EC%A7%80+%EB%B0%B0%EC%9A%B0%EB%8A%94+%EC%A4%91" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+postwo+%F0%9F%91%8B;Spring+Boot+%26+JPA+%ED%95%99%EC%8A%B5+%EC%A4%91;Redis+%7C+Kafka+%7C+Kotlin+%EB%8F%84%EC%A0%84+%EC%A4%91" alt="typing" />
 
 </div>
 
@@ -13,7 +13,6 @@
 - 🌱 **Spring Boot / JPA** 기반 백엔드를 중심으로 공부하고 있습니다.
 - 🔐 OAuth, 게시판 CRUD 등 **직접 만들어보며 배우는** 스타일입니다.
 - 📈 요즘은 **Redis · Kafka · Kotlin · TypeScript** 로 영역을 넓히는 중!
-- 📫 Contact: [codo7717@naver.com](mailto:codo7717@naver.com)
 
 <br/>
 
@@ -98,8 +97,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=postwo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postwo&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=postwo&theme=tokyonight&hide_border=true" />
 
