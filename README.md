@@ -26,6 +26,8 @@
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -36,6 +38,7 @@
       <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white" />
       <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
       <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat&logo=auth0&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -44,6 +47,7 @@
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat&logo=qt&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -58,11 +62,40 @@
     <th align="center">Messaging</th>
     <td>
       <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <th align="center">Tools</th>
+    <th align="center">Robotics</th>
     <td>
+      <img src="https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nav2-22314E?style=flat&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cartographer-22314E?style=flat&logo=ros&logoColor=white" />
+      <img src="https://img.shields.io/badge/ArUco-22314E?style=flat&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/TurtleBot3-000000?style=flat&logo=ros&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center">AI / Vision</th>
+    <td>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-00B4D8?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center">Hardware</th>
+    <td>
+      <img src="https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th align="center">DevOps / Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu_22.04-E95420?style=flat&logo=ubuntu&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
