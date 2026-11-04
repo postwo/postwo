@@ -106,18 +106,6 @@
 
 <br/>
 
-## 📚 Currently Learning
-
-| 주제 | 진행도 |
-| :-- | :-- |
-| Spring Boot / JPA | ![](https://geps.dev/progress/80?successColor=6DB33F&dangerColor=6DB33F) |
-| Redis | ![](https://geps.dev/progress/50?successColor=DC382D&dangerColor=DC382D) |
-| Kafka | ![](https://geps.dev/progress/40?successColor=231F20&dangerColor=231F20) |
-| Kotlin | ![](https://geps.dev/progress/40?successColor=7F52FF&dangerColor=7F52FF) |
-| TypeScript / React | ![](https://geps.dev/progress/50?successColor=3178C6&dangerColor=3178C6) |
-
-<br/>
-
 ## 📌 Projects
 
 | Project | Description | Stack |
